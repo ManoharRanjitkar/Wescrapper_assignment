@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Contact",
+        "content": "",
+        "url": "https://en.setopati.com/special/news",
+        "scraped_at": "2026-01-31T12:02:11.625513"
+    },
+    {
+        "title": "More",
+        "content": "An application has been filed at the Kaski District Court to withdraw the money laundering and organized crime case filed by the District Attorney's Office against Rashtriya Swatantra Party (RSP) President Rabi Lamichhane.\nAccording to Information Officer at the Kaski District Court Ram Bahadur Kisan, the application for amendment of the charges submitted by the District Attorney's Office was registered on Monday. Kisan stated that the court has not yet made any decision regarding the applicatio...",
+        "url": "https://en.setopati.com/political/165874",
+        "scraped_at": "2026-01-31T12:02:11.837414"
+    },
+    {
+        "title": "More",
+        "content": "Former vice-chancellor of Rapti Academy of Health Sciences (RAHS) Dr Sangita Bhandari has been implicated in corruption during procurement of health equipment.\nThe Commission for Investigation of Abuse of Authority (CIAA) filed a corruption case on Thursday against 20 individuals including Dr Bhandari.\nAccording to CIAA spokesperson Suresh Neupane, there was corruption of Rs 73,182,985 during the purchase of a CT scan machine for the RAHS.\nSpokesperson Neupane informed that the corruption case w...",
+        "url": "https://en.setopati.com/social/165873",
+        "scraped_at": "2026-01-31T12:02:12.045058"
+    },
+    {
+        "title": "More",
+        "content": "The Meteorological Forecast Division has stated that the country is currently under the partial influence of a western low-pressure system.\nAccording to the division, the high-hilly and mountain regions of the country will be completely cloudy Wednesday afternoon, while the hilly and Tarai areas of the remaining regions will experience cloudy weather. Additionally, there is a possibility of moderate snowfall and rain at some places of the high-hilly and mountain regions of the country.\nThere is ...",
+        "url": "https://en.setopati.com/social/165868",
+        "scraped_at": "2026-01-31T12:02:12.252021"
+    },
+    {
+        "title": "More",
+        "content": "Advocate Yuva Raj Paudel (Safal) has been arrested on Tuesday.\nThe police arrested him on charges of spreading rumors and engaging in verbal abuse via social media. A team from the District Police Range, Kathmandu arrested him on Tuesday, according to SSP Ramesh Thapa.\n\"He was arrested on charges of verbal abuse and spreading rumors. We have extended his remand and moved forward with the investigation,\" he said.\nSafal had leveled allegations targeting the Office of the Attorney General and Attor...",
+        "url": "https://en.setopati.com/political/165865",
+        "scraped_at": "2026-01-31T12:02:12.454062"
+    },
+    {
+        "title": "More",
+        "content": "The upcoming House of Representatives (HoR) election in Chitwan-3 is interesting for two reasons.\nFirst, there is a competition between two high-profile female candidates from two different political parties in this constituency. Many assess that the main competition will be between 49-year-old Renu Dahal of Nepali Communist Party (NCP), who served two terms as mayor of Bharatpur Metropolitan City, and 29-year-old Sobita Gautam of Rastriya Swatantra Party (RSP) who won from Kathmandu-2 in her fi...",
+        "url": "https://en.setopati.com/political/165862",
+        "scraped_at": "2026-01-31T12:02:12.678142"
+    },
+    {
+        "title": "More",
+        "content": "Senior leader of Rastriya Swatantra Party (RSP) Balen Shah reached Nepalgunj, Banke, for the first time on Monday.\nA large crowd of people gathered to welcome him when he landed at Nepalgunj Airport. RSP leaders and cadres, including Khagendra Sunar, who is a House of Representatives candidate from Banke, reached the airport to receive Shah.\nThe police are finding it difficult to manage the escorting due to the crowd. According to Sunar's secretariat, Shah is heading to the Bageshwori Temple in ...",
+        "url": "https://en.setopati.com/political/165858",
+        "scraped_at": "2026-01-31T12:02:12.890888"
+    },
+    {
+        "title": "More",
+        "content": "Balen Shah's first political address in Janakpur, the capital of Madhesh, carries three significant messages.\nOne, for the first time, he publicly declared himself a \"son of Madhesh.\" Second, he did not just express support for federalism for the first time but also advocated for making provincial governments stronger than they currently are and bringing centralized powers from Kathmandu to the provinces. Third, in Janakpur—the land where Ram and Janaki married—he shared a plan to bring in 10 mi...",
+        "url": "https://en.setopati.com/political/165854",
+        "scraped_at": "2026-01-31T12:02:13.099588"
+    },
+    {
+        "title": "More",
+        "content": "Baburam Bhattarai has withdrawn his candidacy from Gorkha-2 on Tuesday.\nRastriya Swatantra Party (RSP) General Secretary Kabindra Burlakoti and Lekhnath Neupane of Nepali Communist Party are also candidates there.\nBhattarai was a candidate from the Progressive Democratic Party in Gorkha-2. Bhattarai was contesting for the fourth time having won elections in 2008, 2013 to 2017.\nBhattarai announced withdrawal of his candidacy through the social media. According to the Election Officer of Gorkha-2,...",
+        "url": "https://en.setopati.com/political/165844",
+        "scraped_at": "2026-01-31T12:02:13.298482"
+    },
+    {
+        "title": "More",
+        "content": "Rastriya Swatantra Party (RSP) has sought the support of Baburam Bhattarai in Gorkha-2.\nBhattarai is a candidate from the Progressive Democratic Party in Gorkha-2. Bhattarai is contesting for the fourth time this time having won elections in 2008, 2013 to 2017.\nRSP President Rabi Lamichhane has requested Bhattarai, who has been consistently winning elections from there, to support the party’s General Secretary Kabindra Burlakoti this time. According to Burlakoti, Lamichhane called Bhattarai to m...",
+        "url": "https://en.setopati.com/political/165843",
+        "scraped_at": "2026-01-31T12:02:13.503024"
+    }
+]
